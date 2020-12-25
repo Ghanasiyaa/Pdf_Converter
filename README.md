@@ -12,6 +12,4 @@ Why to convert in pdf ??
 
 This bot will convert your word, ppt, and excel files into pdf files. 
 Yes !! It's time to chill :)
-Chill and Convert !!
-
-- Ghanasiyaa S
+Chill and Convert !!!
