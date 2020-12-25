@@ -1,2 +1,8 @@
-# Pdf_Converter
-Hello everyone !! This is my pdf_converter Project  
+# Pdf_Converter (Build on Dec 2020)
+
+Pdf Converter using python
+
+
+Why to convert in pdf ??
+
+               It's a format that ensures a document can be reproduced exactly the same way, regardless of what software is used. Basically, all of the information necessary for displaying the document in the same manner is embedded in the file—leaving your documents safe, accessible, and secure for the long term.
